@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace ExtendedTypeSystem;
+namespace Typhoon\Reflection;
 
 /**
- * @psalm-api
+ * @api
  * @psalm-immutable
  */
 enum Variance
